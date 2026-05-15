@@ -1,5 +1,7 @@
 # 💫 About Me:
-Currently working on Logarda -  a cloud monitoring system with enhanced error explanation using LLM and time series forecasting (FYP)
+Currently working on:
+    1. 🍂 Logarda -  a cloud monitoring system with enhanced error explanation using LLM and time series forecasting (FYP)
+    2. 🍂 Logarda API - backend service for Logarda (FYP)
 
 
 ## 🌐 Socials:
