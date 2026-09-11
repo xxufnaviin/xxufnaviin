@@ -1,7 +1,9 @@
 # 💫 About Me:
 Computer Science student specializing in Data Analytics with a strong focus on data engineering and scalable infrastructure. Passionate about distributed systems, resource optimization, and building efficient, production-ready data pipelines. Gaining hands-on experience with cluster management, orchestration tools, and cloud-based environments. Interested in how large-scale data systems operate under real-world workloads, with emphasis on performance, reliability, and system design.
 
-Currently working on:<br>&emsp;&emsp;1. 🍂 Logarda -  a cloud monitoring system with enhanced error explanation using LLM and time series forecasting (FYP)<br>&emsp;&emsp;2. 🍂 Logarda API - backend service for Logarda (FYP)
+**Currently working on**: <br>&emsp;&emsp;1. 🌊 Lakeura - AI agent that turns raw data into a queryable lakehouse, enabling natural language interaction with your raw data
+
+**Recently finished**:<br>&emsp;&emsp;1. 🍂 Logarda -  a cloud monitoring system with enhanced error explanation using LLM and time series forecasting (FYP)<br>&emsp;&emsp;2. 🍂 Logarda API - backend service for Logarda (FYP)
 
 
 ## 🌐 Socials:
